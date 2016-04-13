@@ -1,0 +1,38 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="lakomemedical.com" resolutions="1x" timestamp="1460555783974">
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_a-master.css" crc="300022046" ref="datasheet:contact-us:resources:why-solid-state-capnography:index:features:downloads:about-us"/>
+    <file name="datasheet.css" crc="3905719341" ref="datasheet"/>
+    <file name="contact-us.css" crc="3905719341" ref="contact-us"/>
+    <file name="resources.css" crc="3905719341" ref="resources"/>
+    <file name="why-solid-state-capnography.css" crc="3905719341" ref="why-solid-state-capnography"/>
+    <file name="index.css" crc="4152542003" ref="index"/>
+    <file name="features.css" crc="3905719341" ref="features"/>
+    <file name="downloads.css" crc="4027127592" ref="downloads"/>
+    <file name="about-us.css" crc="3905719341" ref="about-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="dist.zip" crc="4049369922" seo="true" mt="1460002074000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:contact-us:why-solid-state-capnography:downloads:datasheet:resources:features"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:contact-us:why-solid-state-capnography:downloads:datasheet:resources:features"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-us:contact-us:why-solid-state-capnography:downloads:datasheet:resources:features"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:about-us:contact-us:why-solid-state-capnography:downloads:datasheet:resources:features"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:contact-us:why-solid-state-capnography:downloads:datasheet:resources:features"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:contact-us:why-solid-state-capnography:downloads:datasheet:resources:features"/>
+  </folder>
+  <folder name="images">
+    <file name="main.gif" crc="4046934624" seo="true" ref="index:about-us:contact-us:why-solid-state-capnography:downloads:datasheet:resources:features"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="capno_img_1.gif" crc="172276695" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="298071634" seo="true" mt="1460315000720" redirect="true"/>
+  <file name="about-us.html" crc="225829468" seo="true" mt="1460314920614" redirect="true"/>
+  <file name="contact-us.html" crc="164683761" seo="true" mt="1460314920614" redirect="true"/>
+  <file name="why-solid-state-capnography.html" crc="3938938939" seo="true" mt="1460314920614" redirect="true"/>
+  <file name="downloads.html" crc="460486163" seo="true" mt="1460555709285" redirect="true"/>
+  <file name="datasheet.html" crc="3964519992" seo="true" mt="1460314920614" redirect="true"/>
+  <file name="resources.html" crc="3843975069" seo="true" mt="1460314920614" redirect="true"/>
+  <file name="features.html" crc="3990089240" seo="true" mt="1460314920614" redirect="true"/>
+</manifest>
