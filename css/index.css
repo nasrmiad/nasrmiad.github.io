@@ -1,0 +1,146 @@
+.version.index /* version checker */
+{
+	color: #0000F3;
+	background-color: #ECEE2F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1100px;
+	min-height: 669px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -15px;
+	padding-bottom: 81px;
+	width: 0.01px;
+}
+
+#u93
+{
+	z-index: 2;
+	width: 198px;
+	margin-right: -10000px;
+}
+
+#u226-4
+{
+	z-index: 4;
+	width: 166px;
+	min-height: 18px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 894px;
+}
+
+#u244
+{
+	z-index: 16;
+	vertical-align: top;
+	width: 1001px;
+	height: 2px;
+	margin-left: 44px;
+	margin-top: 4px;
+	position: relative;
+	background: url("../images/u244.png") no-repeat 0px 0px;
+}
+
+#ppu245-4
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+
+#pu245-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#u245-4
+{
+	z-index: 17;
+	width: 413px;
+	min-height: 31px;
+	background-color: transparent;
+	font-size: 22px;
+	line-height: 26px;
+	position: relative;
+}
+
+#u246-28
+{
+	z-index: 21;
+	width: 545px;
+	min-height: 260px;
+	background-color: transparent;
+	font-size: 16px;
+	line-height: 19px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u233
+{
+	z-index: 8;
+	width: 379px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 594px;
+}
+
+#pu93,#pu247-6
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u247-6
+{
+	z-index: 49;
+	width: 175px;
+	min-height: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u243-6
+{
+	z-index: 10;
+	width: 254px;
+	min-height: 26px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 183px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1100px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
